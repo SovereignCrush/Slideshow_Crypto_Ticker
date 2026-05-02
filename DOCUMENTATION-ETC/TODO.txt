@@ -27,7 +27,7 @@ OPTIMIZATIONS / BUGS / TESTS / UX / QA / OTHER SECTION
 
 
 Check for "whitespace in paths" support in bash scripting (like we had to do for the BT radio script)
- 
+
 
 .attr('style') ALWAYS OVERWRITES *ALL* PREVIOUS VALUES, SO WHEN USING IT, we need to combine attributes INTO ONE INSTANCE OF .attr('style').
 
